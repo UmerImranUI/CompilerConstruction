@@ -1,0 +1,38 @@
+class, , Line: 1
+ID, car, Line: 1
+{, , Line: 1
+ID, car, Line: 2
+(, , Line: 2
+), , Line: 2
+{, , Line: 3
+ID, this, Line: 3
+., , Line: 3
+ID, speed, Line: 3
+=, , Line: 3
+ID, a, Line: 3
+;, , Line: 3
+}, , Line: 3
+}, , Line: 5
+DataType, int, Line: 7
+main, , Line: 7
+(, , Line: 7
+), , Line: 7
+{, , Line: 7
+DataType, int, Line: 8
+ID, arr, Line: 8
+[, , Line: 8
+Int Const, 3, Line: 8
+], , Line: 8
+=, , Line: 8
+{, , Line: 8
+Int Const, 1, Line: 8
+,, , Line: 8
+Int Const, 2, Line: 8
+,, , Line: 8
+Int Const, 3, Line: 8
+}, , Line: 8
+return, , Line: 9
+Int Const, 0, Line: 9
+;, , Line: 9
+}, , Line: 10
+$, , Line: 11

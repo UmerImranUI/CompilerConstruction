@@ -1,0 +1,15 @@
+370 remove
+
+check 347
+
+add index+=1 in 549
+
+ya 533 k term ko } krdo
+remove 533-34
+
+
+change 381 from this to ID
+
+error in 801, tracing main as wrong ID
+
+error in 808, tracing main as wrong ID
